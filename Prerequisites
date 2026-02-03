@@ -1,0 +1,78 @@
+1️⃣ Header (Top Bar)
+Components
+
+Logo: 🌸 Nirnaya Bloom
+
+Navigation:
+Home
+Flowers
+Cart
+Admin (later protected)
+
+
+Design :
+
+White background
+Subtle shadow
+Sticky on scroll
+
+2️⃣ Hero Section
+Text
+
+Flowers that speak your love
+Handpicked blooms for every moment
+
+UI
+
+Big floral banner image
+Soft gradient overlay
+
+Call-to-action button:
+👉 Shop Flowers
+
+3️⃣ Flower Listing (Main Section)
+Layout
+
+Grid (3–4 cards per row desktop, 1–2 mobile)
+
+Flower Card
+Image
+Name
+Price
+Stock status
+Button: Add to Cart
+
+🟥 If stock < 5 → show Low Stock
+
+4️⃣ Flower Details Page
+Large image
+
+Name
+Description
+Price
+Quantity selector
+Add to cart button
+
+5️⃣ Admin Inventory Page
+(Simple, clean — functionality over beauty)
+
+Table/List view
+Fields:
+Name
+Price
+Stock
+Category
+
+Actions:
+
+Edit stock
+Delete flower
+Add new flower
+
+
+6️⃣ Footer
+© Nirnaya Floral
+
+“Made with ❤️ by Pranaya & Nirup”
+Simple links
+
